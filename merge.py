@@ -2,7 +2,7 @@
 import glob2
 
 # Output file
-filename = "merged.txt"
+filename = "merged"
 
 # Get list of all text files in directory
 all_text_files = glob2.glob('*.txt')
